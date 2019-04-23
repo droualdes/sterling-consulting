@@ -6042,7 +6042,7 @@ li:last-child {
 /* ===== */
 .woman {
   width: 100%;
-  background: url("{{ baseurl }}/images/wo-background.jpg") no-repeat right bottom;
+  background: url("{{ site.baseurl }}/images/wo-background.jpg") no-repeat right bottom;
   background-color: #585551;
   padding-top: 100px;
   padding-bottom: 90px;
