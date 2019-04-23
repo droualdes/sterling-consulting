@@ -2,12 +2,6 @@
 /* Sass for Sterling-Consulting.net */
 /* ================================ */
 
-/* =================== */
-/* MY CUSTOM VARIABLES - THIS VARIABLE HAS TO BE DECLARED DUE TO {{ site.baseurl }} NOT BEING READ BY CSS */
-/* =================== */
-
-$baseurl: "{{ site.baseurl }}";
-
 /* ============== */
 /* COMMON CLASSES */
 /* ============== */
@@ -357,9 +351,10 @@ display: inline-block
 /* WOMAN */
 /* ===== */
 
+
 .woman {
 width: 100%;
-background: url('sterling-consulting/images/wo-background.jpg') no-repeat right bottom;
+background: url('#{$baseurl}/images/wo-background.jpg') no-repeat right bottom;
 background-color: #585551;
 padding-top: 100px;
 padding-bottom: 90px;
