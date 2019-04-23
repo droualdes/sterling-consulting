@@ -2,7 +2,7 @@
 title: Sterling Consulting
 email: inquiry@sterling-consulting.net
 description: Marketing and Project Management Consultants
-baseurl: "_sterling-consulting"
+baseurl: "sterling-consulting/"
 url: http://sterling-consulting.net"
 exclude: [ '_site/', '_ignore/']
 
