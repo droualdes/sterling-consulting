@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/">
+
+{% include head.html %}
+<body>
+
+<div class="wrapper">
+{% include header.html %}
+{% if page.url == '/' %}
+{% else %}
+{% endif %}
+{{ content }}
+<div class="push"></div><!-- Sticky Footer -->
+</div><!-- Wrapper -->
+{% include footer.html %}
+
+</body>
+</html>

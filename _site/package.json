@@ -1,0 +1,26 @@
+{
+  "name": "sterling-consulting",
+  "version": "1.0.0",
+  "description": "Sterling Consulting Website",
+  "main": "index.js",
+  "dependencies": {
+    "animatescroll.js": "^1.0.7",
+    "bootstrap-sass": "^3.4.1"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-pro": "^5.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/droualdes/sterling-consulting.git"
+  },
+  "author": "David Roualdes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/droualdes/sterling-consulting/issues"
+  },
+  "homepage": "https://github.com/droualdes/sterling-consulting#readme"
+}

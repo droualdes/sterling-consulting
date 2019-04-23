@@ -1,0 +1,20 @@
+# Site settings
+title: Sterling Consulting
+email: inquiry@sterling-consulting.net
+description: Marketing and Project Management Consultants
+baseurl: "_sterling-consulting"
+url: "http://sterling-consulting.net"
+exclude: [ '_site/', '_ignore/']
+
+# sass
+sass:
+    sass_dir: _sass
+
+# Build
+markdown: kramdown
+
+#Other
+timezone: America/Los_Angeles
+
+#Disqus.com Variables
+comments:

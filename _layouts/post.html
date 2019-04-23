@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<article class="container blog padding-top" id="{{ page.title }}">
+	<div class="row">
+		<div class="col-xs-10 col-xs-offset-1">
+			<div class="col-xs-12">
+				<h3>
+					{{ page.sector }}&#58;
+				</h3>
+				<h1 class="h2">
+					{{ page.title }}
+				</h1>
+				<p class="author">
+					<span class="fa fa-book">
+					</span>&nbsp;&nbsp;Written by {{ page.author }}<!-- , Posted on {{ page.date | date: '%B %d, %Y' }} -->
+				</p>
+				<div class="addthis_toolbox addthis_default_style addthis_16x16_style addthis-padding" addthis:title="{{ page.title }}">
+					<a class="addthis_button_facebook">
+					</a>
+					<a class="addthis_button_twitter">
+					</a>
+					<a class="addthis_button_linkedin">
+					</a>
+					<a class="addthis_button_email">
+					</a>
+				</div>
+				{{ content }}
+			</div>
+		</div>
+	</div>
+</article>

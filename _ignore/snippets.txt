@@ -1,0 +1,5 @@
+Call Code
+<a href="tel:1-408-555-5555">1-408-555-5555</a>
+
+SMS Code
+<a href="sms:1-408-555-1212">New SMS Message</a>

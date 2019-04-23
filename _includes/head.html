@@ -1,0 +1,36 @@
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }}</title>
+
+	<link rel="canonical" href="http://www.sterling-consulting.net">
+
+	<!-- Typekit -->
+	<link rel="stylesheet" href="https://use.typekit.net/wqr8evc.css">
+
+	<!-- CSS -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="{{ "/css/styles.css" | relative_url }}">
+
+	<!-- Fontawesome -->
+	<link rel="stylesheet" href="{{ "/node_modules/@fortawesome/fontawesome-pro/css/all.min.css" | relative_url }}">
+
+	<!-- AnimateScoll -->
+	<script src="{{ "/node_modules/jquery/dist/jquery.min.js" | relative_url }}"></script>
+	<script src="{{ "/node_modules/animatescroll.js/animatescroll.min.js" | relative_url }}"></script>
+
+	<!-- Bootstrap -->
+	<script src="{{ "/node_modules/bootstrap-sass/assets/javascripts/bootstrap.min.js" | relative_url }}"></script>
+
+    {% if page.url == 'blog/index.html' %}
+    {% else %}
+
+	<!-- www.addthis.com JavaScript -->
+	<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56db7393397b2435"></script>
+
+    {% endif %}
+
+</head>

@@ -1,0 +1,40 @@
+.nav {
+background-color: #383634;
+}
+.navbar {
+background-color: #383634;
+border: none;
+max-height: 80px;
+margin-bottom: 0;
+}
+.navbar-fixed-top {
+text-transform: uppercase;
+}
+.navbar-default .navbar-nav > li > a {
+color: #fff;
+}
+.navbar-nav > li > a {
+padding-top: 30px;
+padding-bottom: 0px;
+text-transform: uppercase;
+font-size: 1.1em;
+}
+.navbar-nav > a, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+color: #fff;
+opacity: 1;
+border-bottom: 2px solid #F15725;
+}
+.slogo {
+margin-top: 12px;
+font-size: 1.2em;
+font-weight: 900;
+color: #fff;
+/*display: block;
+text-indent: -9999px;
+width: 200px;
+height: 40px;
+background: url(/images/vtu-logo-plus.svg);
+*/}
+.navbar-toggle {
+/*margin-top: 20px;
+*/}
