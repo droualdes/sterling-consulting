@@ -17,8 +17,8 @@ min-height: 100%; /* Sticky Footer */
 /* Start Sticky Footer */
 /* =================== */
 
-/* Custom, iPhone Retina */ 
-@media only screen and (min-width : 320px) {  
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
 
 footer, .push {
 margin: 0 auto -500px; /* Sticky Footer */
@@ -26,7 +26,7 @@ margin: 0 auto -500px; /* Sticky Footer */
 
 }
 
-/* Extra Small Devices, Phones */ 
+/* Extra Small Devices, Phones */
 @media only screen and (min-width : 480px) {
 
 footer, .push {
@@ -131,8 +131,8 @@ font-style: italic;
 margin-bottom: 0;
 }
 
-/* Custom, iPhone Retina */ 
-@media only screen and (min-width : 320px) {  
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
 
 .navbar {
 height: auto;
@@ -144,7 +144,7 @@ font-size: 12pt;
 
 }
 
-/* Extra Small Devices, Phones */ 
+/* Extra Small Devices, Phones */
 @media only screen and (min-width : 480px) {
 
 .navbar {
@@ -224,8 +224,8 @@ background-color: #ef5831;
 color: #fff;
 }
 
-/* Custom, iPhone Retina */ 
-@media only screen and (min-width : 320px) {  
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
 .jumbotron-fluid h1 {
 margin-top: 460px;
 width: 78%;
@@ -233,7 +233,7 @@ margin-left: 11%;
 }
 }
 
-/* Extra Small Devices, Phones */ 
+/* Extra Small Devices, Phones */
 @media only screen and (min-width : 480px) {
 .jumbotron-fluid h1 {
 margin-top: 460px;
@@ -312,14 +312,14 @@ padding-bottom: 70px;
 margin-bottom: 26px;
 }
 
-/* Custom, iPhone Retina */ 
-@media only screen and (min-width : 320px) {  
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
 .overview .rwd-line {
 display: block
 }
 }
 
-/* Extra Small Devices, Phones */ 
+/* Extra Small Devices, Phones */
 @media only screen and (min-width : 480px) {
 .overview .rwd-line {
 display: block
@@ -353,7 +353,7 @@ display: inline-block
 
 .woman {
 width: 100%;
-background: url('/images/wo-background.jpg') no-repeat right bottom;
+background: url( "{{ '/images/wo-background.jpg' | relative_url }}" ) no-repeat right bottom;
 background-color: #585551;
 padding-top: 100px;
 padding-bottom: 90px;
@@ -364,7 +364,7 @@ color: #fff;
 }
 .woman p.italic {
 color: #fff;
-}	
+}
 .woman div.col-sm-8.col-sm-offset-2 {
 border: 4px solid #ef5831;
 background-color: transparent;
@@ -532,8 +532,8 @@ text-decoration: none;
 /* Start Sticky Footer */
 /* =================== */
 
-/* Custom, iPhone Retina */ 
-@media only screen and (min-width : 320px) {  
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
 
 footer, .push {
 height: 500px; /* Sticky Footer */
@@ -541,7 +541,7 @@ height: 500px; /* Sticky Footer */
 
 }
 
-/* Extra Small Devices, Phones */ 
+/* Extra Small Devices, Phones */
 @media only screen and (min-width : 480px) {
 
 footer, .push {
@@ -585,8 +585,8 @@ height: 300px; /* Sticky Footer */
 /* Start Panel Changes in Footer */
 /* ====================================== */
 
-/* Custom, iPhone Retina */ 
-@media only screen and (min-width : 320px) {  
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
 
 .panel-1 {
 border-top: 1px solid #b8b09c;
@@ -618,7 +618,7 @@ border-left: 1px solid #b8b09c;
 
 }
 
-/* Extra Small Devices, Phones */ 
+/* Extra Small Devices, Phones */
 @media only screen and (min-width : 480px) {
 
 .panel-1 {
@@ -761,8 +761,8 @@ background-color: #383634;
 padding: 20px;
 border-radius: 0;
 }
-/* Custom, iPhone Retina */ 
-@media only screen and (min-width : 320px) {  
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
 footer .rwd-line {
 display: block
 }
