@@ -351,8 +351,6 @@ display: inline-block
 /* WOMAN */
 /* ===== */
 
-$baseurl: "{{ site.baseurl }}";
-
 .woman {
 width: 100%;
 background: url( $baseurl + '/images/wo-background.jpg' ) no-repeat right bottom;
