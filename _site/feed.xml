@@ -3,10 +3,10 @@
   <channel>
     <title>Sterling Consulting</title>
     <description>Marketing and Project Management Consultants</description>
-    <link>http://localhost:4000_sterling-consulting/</link>
-    <atom:link href="http://localhost:4000_sterling-consulting/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Apr 2019 11:27:36 -0700</pubDate>
-    <lastBuildDate>Tue, 23 Apr 2019 11:27:36 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 23 Apr 2019 11:45:11 -0700</pubDate>
+    <lastBuildDate>Tue, 23 Apr 2019 11:45:11 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -20,8 +20,8 @@
 &lt;p&gt;Sterling provided a top flight product manager to work the project from inception to launch.  Multiple stakeholders were involved and vendors. The product manager coordinated every detail with skill and precision leading the not only the successful launch of the bank’s first business card, but also the subsequent launch of a consumer card.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Jan 2013 12:00:00 -0800</pubDate>
-        <link>http://localhost:4000_sterling-consulting/casestudies/case%20studies/2013/01/01/financial-cs-1.html</link>
-        <guid isPermaLink="true">http://localhost:4000_sterling-consulting/casestudies/case%20studies/2013/01/01/financial-cs-1.html</guid>
+        <link>http://localhost:4000/casestudies/case%20studies/2013/01/01/financial-cs-1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/casestudies/case%20studies/2013/01/01/financial-cs-1.html</guid>
         
         
         <category>casestudies</category>
@@ -41,8 +41,8 @@
 &lt;p&gt;Sterling facilitated the first green summit with over 50 of the bank’s product owners. Eight projects were outlined for implementation during 2011/12.&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Jan 2011 12:00:00 -0800</pubDate>
-        <link>http://localhost:4000_sterling-consulting/casestudies/case%20studies/2011/01/01/financial-cs-5.html</link>
-        <guid isPermaLink="true">http://localhost:4000_sterling-consulting/casestudies/case%20studies/2011/01/01/financial-cs-5.html</guid>
+        <link>http://localhost:4000/casestudies/case%20studies/2011/01/01/financial-cs-5.html</link>
+        <guid isPermaLink="true">http://localhost:4000/casestudies/case%20studies/2011/01/01/financial-cs-5.html</guid>
         
         
         <category>casestudies</category>
@@ -66,8 +66,8 @@
 &lt;p&gt;Provided copy writers and one project manager to deliver. Additionally, we conducted senior management strategy sessions to outline a comprehensive sales tool kit to lay the foundation for a more robust sales foundation with the infrastructure to support the effort.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Jan 2010 12:00:00 -0800</pubDate>
-        <link>http://localhost:4000_sterling-consulting/casestudies/case%20studies/2010/01/01/financial-4.html</link>
-        <guid isPermaLink="true">http://localhost:4000_sterling-consulting/casestudies/case%20studies/2010/01/01/financial-4.html</guid>
+        <link>http://localhost:4000/casestudies/case%20studies/2010/01/01/financial-4.html</link>
+        <guid isPermaLink="true">http://localhost:4000/casestudies/case%20studies/2010/01/01/financial-4.html</guid>
         
         
         <category>casestudies</category>
@@ -87,8 +87,8 @@
 &lt;p&gt;Sterling provided a business requirements analyst to gather comprehensive requirements. The requirements were used to develop an RFP. A Sterling Business PM also led the effort to keep the project on track and to manage and resolve the issues and risks. The client made the decision to band aid the existing system until a more robust platform and service provider could be identified.&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Jan 2008 12:00:00 -0800</pubDate>
-        <link>http://localhost:4000_sterling-consulting/casestudies/case%20studies/2008/01/01/energy-cs-1.html</link>
-        <guid isPermaLink="true">http://localhost:4000_sterling-consulting/casestudies/case%20studies/2008/01/01/energy-cs-1.html</guid>
+        <link>http://localhost:4000/casestudies/case%20studies/2008/01/01/energy-cs-1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/casestudies/case%20studies/2008/01/01/energy-cs-1.html</guid>
         
         
         <category>casestudies</category>
@@ -109,8 +109,8 @@
 The project was delivered on time and serious risks were avoided due to the collaborative leadership skills of the PM.&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Jan 2007 12:00:00 -0800</pubDate>
-        <link>http://localhost:4000_sterling-consulting/casestudies/case%20studies/2007/01/01/health-cs-1.html</link>
-        <guid isPermaLink="true">http://localhost:4000_sterling-consulting/casestudies/case%20studies/2007/01/01/health-cs-1.html</guid>
+        <link>http://localhost:4000/casestudies/case%20studies/2007/01/01/health-cs-1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/casestudies/case%20studies/2007/01/01/health-cs-1.html</guid>
         
         
         <category>casestudies</category>
@@ -134,8 +134,8 @@ The project was delivered on time and serious risks were avoided due to the coll
 &lt;p&gt;We provided specific recommendations unique to each bank to revisit their hiring practices to actively hire sales oriented bankers, to reinvest in training and retraining, and to enhance or to develop marketing tools to attract and maintain small business customers.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 2006 12:00:00 -0800</pubDate>
-        <link>http://localhost:4000_sterling-consulting/casestudies/case%20studies/2006/01/01/financial-cs-3.html</link>
-        <guid isPermaLink="true">http://localhost:4000_sterling-consulting/casestudies/case%20studies/2006/01/01/financial-cs-3.html</guid>
+        <link>http://localhost:4000/casestudies/case%20studies/2006/01/01/financial-cs-3.html</link>
+        <guid isPermaLink="true">http://localhost:4000/casestudies/case%20studies/2006/01/01/financial-cs-3.html</guid>
         
         
         <category>casestudies</category>
@@ -157,8 +157,8 @@ The project was delivered on time and serious risks were avoided due to the coll
 &lt;p&gt;Working with business partners, consultants helped to develop, test and launch new features including: online brokerage, access to Quicken and Money; Account Activity and Transfer Services; On Line Statements, and Email Alerts. All features were launched on time and 10% under budget; additionally, streamlining of developers’ roles and responsibilities eliminated redundancies in development efforts for estimated annual savings of $1.5M.&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Jan 2005 12:00:00 -0800</pubDate>
-        <link>http://localhost:4000_sterling-consulting/casestudies/case%20studies/2005/01/01/financial-cs-2.html</link>
-        <guid isPermaLink="true">http://localhost:4000_sterling-consulting/casestudies/case%20studies/2005/01/01/financial-cs-2.html</guid>
+        <link>http://localhost:4000/casestudies/case%20studies/2005/01/01/financial-cs-2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/casestudies/case%20studies/2005/01/01/financial-cs-2.html</guid>
         
         
         <category>casestudies</category>
@@ -182,8 +182,8 @@ The project was delivered on time and serious risks were avoided due to the coll
 &lt;p&gt;We managed the development of the product in concert with the technology partner and coordinated the marketing and advertising campaign to promote growth in sales for a sample of customers in a “beta” test environment for six months. The product stimulated increased trading activity by 30% in the segment after going live in the first six months. Client decided to launch nationally.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jan 2003 12:00:00 -0800</pubDate>
-        <link>http://localhost:4000_sterling-consulting/casestudies/case%20studies/2003/01/01/broker-dealer-cs-1.html</link>
-        <guid isPermaLink="true">http://localhost:4000_sterling-consulting/casestudies/case%20studies/2003/01/01/broker-dealer-cs-1.html</guid>
+        <link>http://localhost:4000/casestudies/case%20studies/2003/01/01/broker-dealer-cs-1.html</link>
+        <guid isPermaLink="true">http://localhost:4000/casestudies/case%20studies/2003/01/01/broker-dealer-cs-1.html</guid>
         
         
         <category>casestudies</category>
@@ -203,8 +203,8 @@ The project was delivered on time and serious risks were avoided due to the coll
 &lt;p&gt;Sterling provided two Senior Business Analysts to write the business requirements for the creation and launch of Schwab.com. The rest is history.&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jan 1995 12:00:00 -0800</pubDate>
-        <link>http://localhost:4000_sterling-consulting/casestudies/case%20studies/1995/01/01/broker-dealer-cs-2.html</link>
-        <guid isPermaLink="true">http://localhost:4000_sterling-consulting/casestudies/case%20studies/1995/01/01/broker-dealer-cs-2.html</guid>
+        <link>http://localhost:4000/casestudies/case%20studies/1995/01/01/broker-dealer-cs-2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/casestudies/case%20studies/1995/01/01/broker-dealer-cs-2.html</guid>
         
         
         <category>casestudies</category>
