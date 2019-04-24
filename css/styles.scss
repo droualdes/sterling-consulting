@@ -2,6 +2,7 @@
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
+$baseurl: "{{ site.baseurl }}";
 
 // import partials
 @import "../_sass/base";
@@ -10,4 +11,3 @@
 // @import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap-compass"; // What does this do?
 @import "../node_modules/@fortawesome/fontawesome-pro/css/all.min.css";
 @import "../_sass/base";
-$baseurl: "{{ site.baseurl }}";
